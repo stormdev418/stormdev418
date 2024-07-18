@@ -49,13 +49,15 @@ Ready for an opportunity to use my skills to grow your business and revenue expo
 <div align="center">
   https://lightning-farron-fi.vercel.app/
   <br/>
-https://nika-tawny.vercel.app/
+https://next-tailwind-c5tn.vercel.app
   <br/>
 https://noctis-caelum-me.vercel.app/
   <br/>
 https://inori-yuzuriha-me.vercel.app/
   <br/>
 https://mari-illustrious-me.vercel.app/
+  <br/>
+http://sparkleinpink.com
   <br/>
 </div>
 <h2 align="center">🛠 Language and tools</h2>
